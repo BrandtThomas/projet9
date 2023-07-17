@@ -21,7 +21,7 @@ Vous souhaitez proposer comme service :
 
 ## Deadline
 
-21 juillet
+20 juillet
 
 ## Authors
 
